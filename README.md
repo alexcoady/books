@@ -1,4 +1,4 @@
-# Capco books react native app
+# books react native app
 
 ## Caveats
 This is time-boxed version of the code test (limited to 4 hours), as such the following applies:
